@@ -25,5 +25,3 @@ Windows环境
 >> (PyMicroChat) D:\VSCODE\PyMicroChat>deactivate
 
 ### 工程中的dll文件源码地址：https://github.com/InfiniteTsukuyomi/MicroChat/tree/master/test/ecdh
-
-##### QQ交流群：306804262
